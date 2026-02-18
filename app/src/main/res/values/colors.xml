@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gold_primary">#FFD700</color>
+    <color name="gold_dark">#C7A600</color>
+    <color name="deep_purple">#1A0533</color>
+    <color name="night_blue">#0D1B2A</color>
+    <color name="teal_accent">#00BFA5</color>
+    <color name="warm_white">#FFF8E7</color>
+    <color name="sunset_orange">#FF6F3C</color>
+</resources>

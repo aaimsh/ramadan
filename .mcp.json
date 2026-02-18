@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "fetch": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/mcp-fetch@latest"],
+      "description": "Fetch web content - useful for looking up prayer time APIs, Android documentation, and Ramadan calendar data"
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@anthropic-ai/mcp-filesystem@latest",
+        "/home/user/ramadan"
+      ],
+      "description": "Enhanced filesystem operations for managing the Android project files"
+    },
+    "memory": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/mcp-memory@latest"],
+      "description": "Persistent memory for storing project decisions, API keys, calculation method preferences, and build configurations across sessions"
+    }
+  }
+}
