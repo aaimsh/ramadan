@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="night_bg">#0D1B2A</color>
+    <color name="card_bg">#152238</color>
+    <color name="gold">#FFD700</color>
+    <color name="gold_dark">#C7A600</color>
+    <color name="teal">#00BFA5</color>
+    <color name="warm_white">#FFF8E7</color>
+    <color name="light_text">#BBC5D5</color>
+    <color name="sunset">#FF6F3C</color>
+    <color name="highlight_bg">#2A1B45</color>
+</resources>
